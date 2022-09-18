@@ -4,7 +4,7 @@
 }
 .background-image{
         height: 100vh;
-        background-image: url(../hh/image/hong.png);
+        background-image: url(hong.png);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
