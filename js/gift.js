@@ -1,6 +1,6 @@
 var to = 'Nương Nương<3';
 var gift_url = 'https://www.facebook.com/huyen16547';
-var gift_image_url = '../code/image/nn.png';
+var gift_image_url = '../hh/image/nn.png';
 
 
 
